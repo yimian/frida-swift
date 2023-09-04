@@ -239,9 +239,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 0C9289481CA6F06C00FBA302 /* Build configuration list for PBXNativeTarget "Frida" */;
 			buildPhases = (
+				0C9289311CA6F06C00FBA302 /* Headers */,
 				0C92892F1CA6F06C00FBA302 /* Sources */,
 				0C9289301CA6F06C00FBA302 /* Frameworks */,
-				0C9289311CA6F06C00FBA302 /* Headers */,
 				0C9289321CA6F06C00FBA302 /* Resources */,
 			);
 			buildRules = (
